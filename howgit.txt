@@ -1,0 +1,22 @@
+General git flow
+
+
+git clone https://github.com/dangfrick/landbeforecode
+
+git checkout -b branchname
+
+//edit branch
+
+git add .
+
+git commit -m "do stuff"
+
+git pull 
+
+git push --set-upstream origin branchname
+
+//go to git online to actually do pull request, merge, and delete branchname
+
+git checkout master //is this out of order? if I do "git branch -a" i see RED
+
+//repeat
