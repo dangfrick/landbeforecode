@@ -1,1 +1,3 @@
 # landbeforecode
+
+I hate git.
